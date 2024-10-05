@@ -1,0 +1,107 @@
+.top-bar {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 850px;
+}
+.topbar-icon {
+    margin-right: 14px !important;
+}
+
+.nav-horizontal-line {
+    border: 1px rgba(0, 0, 0, 0.377) solid;
+}
+.logo-overline-1 {
+    border-top: 2px red solid;
+}
+.logo-overline-2 {
+    border-top: 2px blue solid;
+}
+
+.banner {
+    background-image: url(../images/banner/offfice\ picture.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    background-position: center;
+}
+.banner-content {
+    width: 650px;
+    position: relative;
+    top: 200px;
+    left: 300px;
+}
+
+.banner-heading-1 {
+    font-size: 65px;
+    font-weight: 600;
+}
+.banner-heading-2 {
+    font-size: 55px;
+    font-weight: 500;
+}
+.banner-btn {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(250, 45, 45);
+    padding: 10px;
+}
+.success-sector {
+    display: flex !important;
+    justify-content: center;
+}
+
+.success-box1 {
+    background-color: rgb(0, 41, 117);
+    width: 200px;
+    height: 130px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.success-box2 {
+    background-color: rgb(219, 15, 0);
+    width: 200px;
+    height: 130px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.success-box3 {
+    background-color: rgb(255, 255, 255);
+    width: 380px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-top: 5px blue solid;
+    margin-top: -200px;
+    padding: 20px;
+    padding-right: 80px;
+    box-shadow: 0px 0px 20px 16px rgba(0, 0, 0, 0.1);
+}
+
+.success-content {
+    margin-left: 15px !important;
+}
+.success-number {
+    font-size: 50px;
+    color: white;
+    font-weight: 700;
+}
+.success-text {
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+    margin-top: -20px;
+}
+.success-caption {
+    font-size: 23px;
+    font-weight: 700;
+    color: rgb(12, 14, 112);
+}
+.success-details {
+    display: flex;
+}
+.icons {
+    font-size: 60px !important;
+    color: red;
+}
